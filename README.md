@@ -1,4 +1,6 @@
 # 3D-Printable-Desk-Mat-
+!!This page is in progress!! (+I'm new to GitHub so it might take a minute)
+
 An open source, 3D printable, scalable, and customizable desk mat to fit your personal needs. Created by Tyler Szymanski as a personal Engineering project using resources from the University of Alabama. Current project goals can be found in the ReadMe and will be updated as goals change. 
 
 Premise:
